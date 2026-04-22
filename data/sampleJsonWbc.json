@@ -1,0 +1,13 @@
+{
+    "WBC": {
+        "comp": "VCard",
+        "options": {
+            "class": "pa-5 teal darken-1 white--text rounded-xl elevation-5 text-center",
+            "html": [
+                "VIcon__mdi-rocket-launch|text-h2 white--text mb-4",
+                "h3__Dynamic Component Node",
+                "div__This file was recognized as a WBC manifest because of the \"WBC\": true property.|caption mt-2"
+            ]
+        }
+    }
+}

@@ -1,0 +1,2 @@
+Hello! This is a simple plain text file served directly from the Vite public folder.
+It is naturally handled by the WBC engine fallback renderer.

@@ -1,0 +1,15 @@
+{
+    "name": "Demo Data Set",
+    "version": "1.0.0",
+    "description": "Standard JSON file loaded from the public directory. It is rendered using a JSON viewer because there is no 'WBC' root property.",
+    "items": [
+        {
+            "id": 1,
+            "active": true
+        },
+        {
+            "id": 2,
+            "active": false
+        }
+    ]
+}
